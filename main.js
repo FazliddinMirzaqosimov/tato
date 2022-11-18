@@ -197,4 +197,3 @@ function carousel(document) {
 function scrollToTop() {
   window.scrollTo({ top: 0, behavior: "smooth" });
 }
-wewe;
